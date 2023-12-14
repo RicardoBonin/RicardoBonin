@@ -32,7 +32,7 @@
 </div>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBonin&layout=donut&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/RicardoBonin/github-readme-stats)
 [![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=RicardoBonin&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/RicardoBonin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBonin&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/RicardoBonin/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-bonin-dev/)](https://www.linkedin.com/in/ricardo-bonin-dev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ricardo.bonin.rb@gmail.com)](mailto:danielbeckeralves@gmail.com)
